@@ -1,2 +1,4 @@
 # Adventure-Game-Description
 For this assignment, I made a non-linear choose your own adventure game with one goal: get some coffee. The player awakens in there room and must search for a key to escape. Along the way he runs into his many roommates, such as chad who will steal your lunch money if you’re not careful, and Joe, a barista with an actual fully functioning café in his room. You have the options of either buying coffee or making it yourself. If you do opt to make it on your own, you have to hunt the kitchen for the different mixes hidden in the room. There are many items you can find, ranging from a pack of gum to a tip jar to the different coffee mixes you hunt for. 
+Perhaps you'll find mysterious items that allow you to make other types of coffee.
+You might even find yourself making some extra money along away! This coffee adventure is a wild ride!
